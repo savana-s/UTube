@@ -16,7 +16,7 @@ export function SideBarFooter() {
         <div>Test new features</div>
       </div>
       <div className="footer-block">
-        <div>All prices include VAT</div>
+        <div>www.savanas.net</div>
       </div>
       <div className="footer-block">
         <div>© UTube - A Youtube clone.</div>
